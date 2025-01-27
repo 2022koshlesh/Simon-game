@@ -8,7 +8,7 @@ Simon is a classic memory game where players follow a sequence of lights and sou
 1. Press the **Start** button to begin the game.
 2. Watch and listen as the game highlights a random color.
 3. Repeat the pattern by clicking the colors in the same order.
-4. Each round adds one more color to the sequence.
+4. Each round adds one more color to the sequence. 
 5. The game ends when you press the wrong sequence.
 
 Can you beat your high score?
