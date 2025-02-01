@@ -4,7 +4,7 @@ Simon is a classic memory game where players follow a sequence of lights and sou
 
 ---
 
-## How to Play
+## How to Play 
 1. Press the **Start** button to begin the game.
 2. Watch and listen as the game highlights a random color.
 3. Repeat the pattern by clicking the colors in the same order.
