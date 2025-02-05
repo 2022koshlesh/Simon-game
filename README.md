@@ -3,7 +3,7 @@
 Simon is a classic memory game where players follow a sequence of lights and sounds, repeating the pattern as it grows increasingly longer. It’s a fun way to test and improve your memory and focus!
 
 ---
-
+ 
 ## How to Play 
 1. Press the **Start** button to begin the game.
 2. Watch and listen as the game highlights a random color.
