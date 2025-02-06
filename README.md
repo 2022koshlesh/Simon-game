@@ -11,7 +11,7 @@ Simon is a classic memory game where players follow a sequence of lights and sou
 4. Each round adds one more color to the sequence. 
 5. The game ends when you press the wrong sequence.
 
-Can you beat your high score?
+Can you beat your high score? 
 
 ---
 
